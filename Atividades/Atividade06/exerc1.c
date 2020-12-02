@@ -4,7 +4,6 @@ struct data_t{
     int dia,mes,ano;
 };
 
-
 int main()
 {
     struct data_t calendario;
